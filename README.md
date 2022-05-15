@@ -9,14 +9,10 @@
 
 ```text
 
-* Counter-Strike: Global Offensive 🕘 378 hrs 41 mins
-
+🔫 Tom Clancy's Rainbow Six Siege   🕘 559 hrs 13 mins
+🔫 Counter-Strike: Global Offensive 🕘 536 hrs 25 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 235 hrs 57 mins
-
-* Tom Clancy's Rainbow Six Siege   🕘 125 hrs 2 mins
-
-🎮 Sea of Thieves                   🕘 41 hrs 27 mins
-
-🎮 Counter-Strike                   🕘 17 hrs 48 mins
+🎮 Titanfall® 2                     🕘 59 hrs 39 mins
+🎮 Sea of Thieves                   🕘 48 hrs 15 mins
 
 ```
