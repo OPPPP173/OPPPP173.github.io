@@ -2,7 +2,7 @@ def fetch_play_time():
 
     return httpx.get(
 
-        "https://gist.github.com/OPPPP173/3d0fa8da2f69931cb499fc673f53f1af/raw/"
+        "https://gist.github.com/OPPPP173/c95db24c63b25739d2dad6c189f2b4c7/raw/"
 
     )
 
